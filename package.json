@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "vite": "^4.2.1"
+  },
+  "name": "globe",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
